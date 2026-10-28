@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Victor Daniel López, estudiante de Analisis y desarrollo de software en el SENA y amante de la tecnologia. Me encanta aprender cosas nuevas, viajar, leer libros. En mi tiempo libre, disfruto compartir con mi familia, y siempre estoy buscando nuevas formas de crecer y desarrollarme tanto personal como profesionalmente.
+Hi, I'm Victor Daniel López, a student of Software Analysis and Development at SENA and a technology enthusiast. I love learning new things, traveling, and reading books. In my free time, I enjoy spending time with my family, and I'm always looking for new ways to grow and develop both personally and professionally.
 
 
 # 💻 Tech Stack:
